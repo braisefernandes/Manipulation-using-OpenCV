@@ -12,7 +12,3 @@ venv\Scripts\activate     # Windows
 
 # Install dependencies
 pip install -r requirements.txt
-
-# Run a specific project
-cd projects/face_detection
-python detect_faces.py
