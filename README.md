@@ -2,8 +2,8 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/braisefernandes/Manipulation-using-OpenCV.git
+cd Manipulation-using-OpenCV
 
 # (Optional) Create virtual environment
 python -m venv venv
